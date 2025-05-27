@@ -8,6 +8,8 @@ namespace phonebook
 {
     internal class Abonent
     {
+        public string Name;
+        public int phone_number;
 
     }
 }
